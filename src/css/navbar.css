@@ -1,0 +1,16 @@
+/* navbar start */
+.d-block{
+    box-sizing: content-box;
+}
+.bi-twitter{
+    float: inline-start;
+}
+.bi-facebook{
+    float: inline-start;
+}
+.bi-instagram{
+    float: inline-start;
+}
+.bi-youtube{
+    float: inline-start;
+}
